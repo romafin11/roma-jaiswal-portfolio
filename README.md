@@ -1,64 +1,19 @@
-# roma-jaiswal-portfolio
-Professional portfolio of Roma Jaiswal, Cloud Engineer, Full Stack Developer, and AI &amp; Data Engineering enthusiast showcasing projects, technical skills, certifications, and software engineering experience.
-
-# 📂 Portfolio Structure
-
-```text
-
-roma-portfolio/
-│
-├── README.md
-├── assets/
-│   ├── images/
-│   ├── certificates/
-│   ├── resume/
-│   └── screenshots/
-│
-├── about/
-│   └── about-me.md
-│
-├── education/
-│   ├── finland-ict.md
-│   ├── metropolia.md
-│   └── certifications.md
-│
-├── experience/
-│   ├── algoai.md
-│   ├── medigoo.md
-│   ├── hoiwa.md
-│   └── kaaira-techsoft.md
-│
-├── projects/
-│   ├── healthcare-ai-platform.md
-│   ├── enterprise-data-platform.md
-│   ├── ai-medical-platform.md
-│   ├── healthcare-webapp.md
-│   └── healthcare-ui-design.md
-│
-├── skills/
-│   ├── cloud.md
-│   ├── ai.md
-│   ├── devops.md
-│   └── programming.md
-│
-└── contact.md
-```
-
 <div align="center">
 
 # 👋 Hi, I'm Roma Jaiswal
 
 ### Cloud Engineer • Full Stack Software Engineer • AI & Data Engineering Enthusiast
 
-📍 **Espoo, Finland**
+📍 **Espoo, Finland 🇫🇮**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Profile-blue?logo=linkedin)](https://www.linkedin.com/in/romajaiswal11)
 [![Professional Email](https://img.shields.io/badge/Professional_Email-roma.jaiswal%40algoai.fi-red?logo=gmail)](mailto:roma.jaiswal@algoai.fi)
 [![Personal Email](https://img.shields.io/badge/Personal_Email-romafin11%40gmail.com-orange?logo=gmail)](mailto:romafin11@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-romafin11-black?logo=github)](https://github.com/romafin11)
 
 ---
 
-### **Cloud Engineering • Artificial Intelligence • Full Stack Development • DevOps**
+### ☁️ Cloud Engineering • 🤖 Artificial Intelligence • 💻 Full Stack Development • ⚙️ DevOps
 
 *"Building secure, scalable, and intelligent software solutions through Cloud Computing, Artificial Intelligence, and Modern Software Engineering."*
 
@@ -70,34 +25,43 @@ roma-portfolio/
 
 Welcome to my professional software engineering portfolio.
 
-I am a **Cloud Engineer**, **Full Stack Software Engineer**, and **Artificial Intelligence & Data Engineering enthusiast** based in **Espoo, Finland**. This portfolio showcases my professional experience, technical projects, Finnish education, and continuous learning journey.
+I am a **Cloud Engineer**, **Full Stack Software Engineer**, and **Artificial Intelligence & Data Engineering enthusiast** passionate about designing secure, scalable, and cloud-native software solutions.
 
-My work focuses on designing cloud-native applications, backend services, AI-powered solutions, and DevOps automation while following modern software engineering best practices.
+This portfolio showcases my technical projects, professional experience, Finnish education, and continuous learning journey in modern software engineering.
+
+My goal is to contribute to innovative software solutions that combine **Cloud Computing**, **Artificial Intelligence**, **Data Engineering**, and **DevOps** to solve real-world challenges.
 
 ---
 
 # 👩‍💻 About Me
 
-I enjoy building software that solves real-world challenges through modern engineering practices.
+I enjoy building software that is:
 
-My interests include:
+- Secure
+- Scalable
+- Maintainable
+- Cloud Native
+- User Focused
+
+My engineering interests include:
 
 - ☁️ Cloud Engineering
-- 💻 Full Stack Software Development
-- ⚙️ DevOps & Platform Engineering
+- 💻 Full Stack Development
 - 🤖 Artificial Intelligence
-- 🌐 REST API Development
+- ⚙️ DevOps Engineering
+- 🏗 Platform Engineering
+- 🌐 REST APIs
 - 🐧 Linux Administration
 - 🗄 Database Engineering
-- 🔒 Secure Software Engineering
+- 🔒 Secure Software Development
 
-I believe continuous learning, collaboration, and innovation are essential for delivering software that creates meaningful value.
+I strongly believe in continuous learning, collaboration, and engineering excellence.
 
 ---
 
 # 🛠 Technology Stack
 
-### 💻 Programming
+## 💻 Programming
 
 - Python
 - Java
@@ -106,27 +70,36 @@ I believe continuous learning, collaboration, and innovation are essential for d
 - HTML5
 - CSS3
 
-### ☁️ Cloud Platforms
+---
+
+## ☁️ Cloud Platforms
 
 - Amazon Web Services (AWS)
 - Google Cloud Platform (GCP)
 - Microsoft Azure
 
-### ⚙️ DevOps
+---
+
+## ⚙️ DevOps
 
 - Docker
 - Kubernetes
 - Terraform
 - GitHub Actions
 - GitLab CI/CD
+- Linux
 
-### 🗄 Databases
+---
+
+## 🗄 Databases
 
 - PostgreSQL
 - MySQL
 - MariaDB
 
-### 🤖 Artificial Intelligence
+---
+
+## 🤖 Artificial Intelligence
 
 - Large Language Models (LLMs)
 - Prompt Engineering
@@ -137,7 +110,7 @@ I believe continuous learning, collaboration, and innovation are essential for d
 
 ---
 
-# 🏗 Professional Journey
+# 📈 Professional Journey
 
 ```mermaid
 timeline
@@ -163,115 +136,142 @@ timeline
 
 ---
 
-# 📂 Portfolio
+# 📂 Portfolio Structure
 
-## 👤 About
-
-- 📖 [About Me](about/about-me.md)
+```text
+roma-jaiswal-portfolio/
+│
+├── README.md
+│
+├── about/
+│   └── about-me.md
+│
+├── education/
+│   ├── finland-ict.md
+│   ├── metropolia.md
+│   └── certifications.md
+│
+├── experience/
+│   ├── algoai.md
+│   ├── medigoo.md
+│   ├── hoiwa.md
+│   └── kaaira-techsoft.md
+│
+├── projects/
+│   ├── healthcare-ai-platform.md
+│   ├── enterprise-data-platform.md
+│   ├── ai-medical-platform.md
+│   ├── healthcare-webapp.md
+│   └── healthcare-ui-design.md
+│
+├── skills/
+│   ├── programming.md
+│   ├── cloud.md
+│   ├── devops.md
+│   └── ai.md
+│
+└── assets/
+```
 
 ---
 
-## 🎓 Education
-
-- 🇫🇮 [Finnish Vocational Qualification in ICT](education/finland-ict.md)
-- 🎓 [Metropolia University of Applied Sciences](education/metropolia.md)
-- 🏆 [Professional Certifications](education/certifications.md)
-
----
-
-## 💼 Professional Experience
-
-- ☁️ [ALGOAI Oy](experience/algoai.md)
-- 🏥 [Medigoo Oy](experience/medigoo.md)
-- 🎨 [Hoiwa Oy](experience/hoiwa.md)
-- 🤝 [Kaaira Techsoft](experience/kaaira-techsoft.md)
-
----
-
-## 🚀 Featured Projects
+# 🌟 Featured Projects
 
 | Project | Description |
 |---------|-------------|
-| 🏥 **Healthcare AI-Enabled Cloud Platform** | AI-powered cloud-native healthcare platform integrating DevOps, cloud infrastructure, and backend engineering. |
-| ☁️ **Enterprise Cloud Data Platform** | Enterprise backend platform featuring cloud-native architecture, event-driven integration, and CI/CD automation. |
-| 🤖 **AI-Driven Medical Data Processing Platform** | Healthcare AI solution using Python, Large Language Models, and intelligent workflow automation. |
-| 🔒 **Secure Healthcare Web Application Platform** | Secure cloud-hosted healthcare application with Linux administration, HTTPS, and deployment automation. |
-| 🎨 **Healthcare User Experience & Interface Design System** | User-centered healthcare UI/UX design emphasizing accessibility and responsive experiences. |
+| 🏥 **Healthcare AI Platform** | Cloud-native healthcare platform integrating Artificial Intelligence, DevOps, and backend engineering. |
+| ☁️ **Enterprise Cloud Data Platform** | Enterprise backend platform using cloud-native architecture, Infrastructure as Code, and event-driven design. |
+| 🤖 **AI Medical Data Processing Platform** | Healthcare AI solution using Python, Large Language Models, and intelligent workflow automation. |
+| 🔒 **Secure Healthcare Web Application** | Secure Linux-based healthcare application with cloud deployment and HTTPS security. |
+| 🎨 **Healthcare UI/UX Design System** | User-centered healthcare interface focusing on accessibility and responsive design. |
 
 ---
 
-## 🛠 Technical Skills
+# 🎓 Education
 
-- 💻 [Programming & Software Engineering](skills/programming.md)
-- ☁️ [Cloud Engineering](skills/cloud.md)
-- ⚙️ [DevOps Engineering](skills/devops.md)
-- 🤖 [Artificial Intelligence](skills/ai.md)
+## 🇫🇮 Finnish Vocational Qualification in ICT
+
+**Stadin Ammattiopisto, Helsinki**
+
+- Software Development
+- 195 / 195 Competence Points
+- Final Grade: **4.8 / 5.0**
+- Completed in **Finnish**
 
 ---
 
-# 🎯 Professional Interests
+## 🎓 Metropolia University of Applied Sciences
 
+**Open UAS**
+
+Current focus:
+
+- Programming
+- Software Engineering
 - Artificial Intelligence
-- Data Engineering
 - Cloud Computing
-- Platform Engineering
-- DevOps
-- Software Architecture
-- Backend Engineering
-- Healthcare Technology
+- Data Engineering
 
 ---
 
-# 🌱 Professional Values
-
-I believe in:
-
-- Continuous Learning
-- Technical Excellence
-- Collaboration
-- Innovation
-- Responsible Engineering
-- User-Centered Design
-- Lifelong Professional Development
-
----
-
-# 📈 Current Focus
+# 🎯 Current Focus
 
 Currently expanding my expertise in:
 
 - Artificial Intelligence
 - Data Engineering
-- Cloud Engineering
+- Cloud Architecture
 - Kubernetes
 - Platform Engineering
 - Software Architecture
+- Distributed Systems
 
 while preparing for postgraduate studies in **Data Engineering and Artificial Intelligence**.
 
 ---
 
-# 📫 Let's Connect
+# 💡 Professional Values
+
+- Continuous Learning
+- Engineering Excellence
+- Innovation
+- Collaboration
+- Responsible AI
+- Cloud-Native Engineering
+- User-Centered Design
+- Lifelong Professional Development
+
+---
+
+# 🤝 Let's Connect
 
 📍 **Espoo, Finland**
 
-📧 **Professional Email**  
+### 📧 Professional
+
 **roma.jaiswal@algoai.fi**
 
-📧 **Personal Email**  
+### 📧 Personal
+
 **romafin11@gmail.com**
 
-💼 **LinkedIn**  
-https://www.linkedin.com/in/romajaiswal11
+### 💼 LinkedIn
 
-🌐 **GitHub**  
-https://github.com/<your-github-username>
+**https://www.linkedin.com/in/romajaiswal11**
+
+### 🌐 GitHub Profile
+
+**https://github.com/romafin11**
+
+### 📂 Portfolio Repository
+
+**https://github.com/romafin11/roma-jaiswal-portfolio**
 
 ---
 
 # 📜 License
 
-This portfolio has been created for educational, professional, and career development purposes. The content highlights my learning journey, technical projects, and professional contributions. Proprietary source code, confidential business information, customer data, and implementation-specific details have been intentionally omitted.
+This portfolio has been created for educational, professional, and career development purposes. Proprietary source code, confidential business information, customer data, and implementation-specific details have been intentionally omitted.
 
 ---
 
