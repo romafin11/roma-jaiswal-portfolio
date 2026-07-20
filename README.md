@@ -1,5 +1,9 @@
 <div align="center">
 
+<p align="center">
+  <img src="assets/profile/ROMA.jpeg" width="180" alt="Roma Jaiswal"/>
+</p>
+
 # 👋 Hi, I'm Roma Jaiswal
 
 ### Cloud Engineer • Full Stack Software Engineer • AI & Data Engineering Enthusiast
