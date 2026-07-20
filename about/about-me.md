@@ -213,7 +213,7 @@ Outside software engineering, I enjoy:
 https://www.linkedin.com/in/romajaiswal11
 
 🌐 **GitHub:**  
-*(GitHub Profile Link)*
+[*(GitHub Profile Link)*](https://github.com/romafin11/roma-jaiswal-portfolio)
 
 ---
 
