@@ -2,21 +2,46 @@
 Professional portfolio of Roma Jaiswal, Cloud Engineer, Full Stack Developer, and AI &amp; Data Engineering enthusiast showcasing projects, technical skills, certifications, and software engineering experience.
 
 # Portfolio Landscape
-roma-portfolio
+
+# 📂 Portfolio Structure
+
+```text
+
+roma-portfolio/
 │
-├── README.md       
+├── README.md
 ├── assets/
-│   ├── profile.jpg
-│   ├── resume.pdf
+│   ├── images/
 │   ├── certificates/
+│   ├── resume/
 │   └── screenshots/
+│
+├── about/
+│   └── about-me.md
+│
+├── education/
+│   ├── finland-ict.md
+│   ├── metropolia.md
+│   └── certifications.md
+│
+├── experience/
+│   ├── algoai.md
+│   ├── medigoo.md
+│   ├── hoiwa.md
+│   └── kaaira-techsoft.md
 │
 ├── projects/
 │   ├── healthcare-ai-platform.md
-│   ├── medigoo-ai.md
 │   ├── enterprise-data-platform.md
-│   └── hoiwa-uiux.md
+│   ├── ai-medical-platform.md
+│   ├── healthcare-webapp.md
+│   └── healthcare-ui-design.md
 │
 ├── skills/
-├── education/
+│   ├── cloud.md
+│   ├── ai.md
+│   ├── devops.md
+│   └── programming.md
+│
 └── contact.md
+```
