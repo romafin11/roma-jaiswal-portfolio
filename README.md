@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://github.com/romafin11/roma-jaiswal-portfolio/blob/main/assets/profile/roma.jpeg?raw=true">
+  <img src="https://raw.githubusercontent.com/romafin11/roma-jaiswal-portfolio/main/assets/profile/roma.jpeg" width="180" alt="Roma Jaiswal">
 </p>
 # 👋 Hi, I'm Roma Jaiswal
 
