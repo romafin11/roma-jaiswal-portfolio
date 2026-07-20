@@ -250,25 +250,15 @@ while preparing for postgraduate studies in **Data Engineering and Artificial In
 
 📍 **Espoo, Finland**
 
-### 📧 Professional
+### 📧 Professional **roma.jaiswal@algoai.fi**
 
-**roma.jaiswal@algoai.fi**
+### 📧 Personal **romafin11@gmail.com**
 
-### 📧 Personal
+### 💼 LinkedIn **https://www.linkedin.com/in/romajaiswal11**
 
-**romafin11@gmail.com**
+### 🌐 GitHub Profile **https://github.com/romafin11**
 
-### 💼 LinkedIn
-
-**https://www.linkedin.com/in/romajaiswal11**
-
-### 🌐 GitHub Profile
-
-**https://github.com/romafin11**
-
-### 📂 Portfolio Repository
-
-**https://github.com/romafin11/roma-jaiswal-portfolio**
+### 📂 Portfolio Repository **https://github.com/romafin11/roma-jaiswal-portfolio**
 
 ---
 
