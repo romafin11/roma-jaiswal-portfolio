@@ -243,8 +243,10 @@ timeline
 title Academic Progression
 
 2023 : Software Development Begins
+     : Finnish Language Begins
 
 2024 : Finnish ICT Qualification Begins
+     : Finnish Language Completed
      : Software Development 
 
 2025 : Workplace Learning
