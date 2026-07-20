@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="assets/profile/ROMA.jpeg" width="180" alt="Roma Jaiswal"/>
+  <img src="assets/profile/roma.jpeg" width="180" alt="Roma Jaiswal"/>
 </p>
 
 # 👋 Hi, I'm Roma Jaiswal
