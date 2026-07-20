@@ -242,16 +242,23 @@ timeline
 
 title Academic Progression
 
+2023 : Software Development Begins
+     : Finnish Language Begins
+
 2024 : Finnish ICT Qualification Begins
+     : Finnish Language Completed
+     : Software Development 
 
 2025 : Workplace Learning
      : Software Development
 
 2026 : ICT Qualification Completed
      : Open UAS Studies Begin
+     : Software Development
 
 2027 : Advanced ICT Studies
      : Master's Degree Preparation
+     : Software Development
 
 Future : Master's Degree
        : AI & Data Engineering
