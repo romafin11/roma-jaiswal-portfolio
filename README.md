@@ -260,7 +260,7 @@ while preparing for postgraduate studies in **Data Engineering and Artificial In
 
 ### 📂 Portfolio Repository **https://github.com/romafin11/roma-jaiswal-portfolio**
 
-### 📂 Smart Journey Planner & Notification System Repository **https://github.com/kone-app/route-planner.git**
+### 📂 Project Repository **https://github.com/kone-app/route-planner.git**
 
 ---
 
